@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-Goal oriented IT Audit Professional with 3+ years of working experience seeking information system audit/ IT compliance positions. Past projects and assignments include extensive background in all stages of audits including study, evaluation, and testing of controls, reporting dashboard and user-stories with data visualization tools and not restricted to internal control review, SOX and ITGC Audit.
+<p>Goal oriented IT Audit Professional with 3+ years of working experience seeking information system audit/ IT compliance positions. Past projects and assignments include extensive background in all stages of audits including study, evaluation, and testing of controls, reporting dashboard and user-stories with data visualization tools and not restricted to internal control review, SOX and ITGC Audit.<p>
 ---
 
 ## Skills
@@ -37,6 +37,6 @@ Goal oriented IT Audit Professional with 3+ years of working experience seeking 
 
 ### **DAV INSTITUTE OF ENGINEERING AND TECHNOLOGY**
 ### BTech Electronics and Telecommunications ENgineering (2013- 2017)
-75%
+<p>75%</p>
 
 ---
