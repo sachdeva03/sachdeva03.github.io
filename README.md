@@ -35,5 +35,3 @@
 ### **DAV INSTITUTE OF ENGINEERING AND TECHNOLOGY**
 ### BTech Electronics and Telecommunications ENgineering (2013- 2017)
 <p>75%</p>
-
----
