@@ -1,10 +1,9 @@
 title: Sahil Sachdeva #
-logo: "" # your photo (or logo) here
+logo: "/profile.jfif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Senior IT Consultant
   <br><br>
   <a href="mailto:info.sahilsachdeva01@gmail.com">info.sahilsachdeva01@gmail.com</a>
   <br>
-  <a href="https://www.linkedin.com/in/iamsachdeva//">LinkedIn Profile</a>
-  </a> 
+  <a href="https://www.linkedin.com/in/iamsachdeva">LinkedIn Profile</a>
 theme: jekyll-theme-minimal
