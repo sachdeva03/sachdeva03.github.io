@@ -19,17 +19,14 @@
 
 ## Experience
 
-### **SENIOR IT Consultant**
+### **SENIOR IT CONSULTANT**
 <p>MGC RISK ADVISORY</p>
 
-### **IT Consultant**
+### **IT CONSULTANT**
 <p>MGC RISK ADVISORY</p>
 
 ### **SOFTWARE DEVELOPER**
 <p>COLLEGEDUNIA WEB PVT LTD</p>
-
-### **TEST**
-<p>NIMBUS INFOTECH</p>
 
 ---
 
